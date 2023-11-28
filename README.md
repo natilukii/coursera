@@ -1,6 +1,4 @@
 # coursera
-Development Environment Setup, Part 3: Github and Browser Sync
-<!doctype html>
 <html>
   <head>
     <title>Hello World!</title>
